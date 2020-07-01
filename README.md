@@ -1,6 +1,6 @@
 # crud-application-with-oop-php
 
-[View Project](https://kumarishwetha.com/form-validation/)
+[View Project](https://kumarishwetha.com/crud-php/)
 
 
 ### Skills used: HTML,CSS,PHP,MySQL
